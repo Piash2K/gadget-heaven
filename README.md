@@ -83,4 +83,3 @@ The application manages data using the following approaches:
 
 The primary goal of Gadget Heaven is to demonstrate proper usage of React fundamentals, clean component structure, global state management with Context API, and an interactive user experience suitable for a modern e-commerce-style application.
 
----
